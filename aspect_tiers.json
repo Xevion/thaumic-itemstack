@@ -1,0 +1,50 @@
+{
+    "primary" : [
+        "aer",
+        "aqua",
+        "ignis",
+        "ordo",
+        "perditio",
+        "terra"
+    ],
+    "secondary" : [
+        "gelum",
+        "lux",
+        "metallum",
+        "motus",
+        "mortuus",
+        "permutatio",
+        "potentia",
+        "vacuos",
+        "victus",
+        "vitreus"
+    ],
+    "tertiary" : [
+        "bestia",
+        "exanimis",
+        "herba",
+        "instrumentum",
+        "praecantatio",
+        "praemunio",
+        "spiritus",
+        "tenebrae",
+        "vinculum",
+        "volatus"
+    ],
+    "quaternary" : [
+        "alkimia",
+        "alienis",
+        "auram",
+        "aversio",
+        "cognitio",
+        "desiderium",
+        "fabrico",
+        "humanus",
+        "machina",
+        "sensus",
+        "vitium"
+    ],
+    "quinary" : [
+        "draco"
+    ]
+}
